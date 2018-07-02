@@ -1,19 +1,19 @@
 {
   "win32-x64-prod": {
     "readme": "init",
-    "update": "https://github.com/linwaiwai/openapplus-ied/releases/download/win32-x64-prod-v0.0.1",
-    "install": "https://github.com/linwaiwai/openapplus-ied/releases/download/win32-x64-prod-v0.0.1/OpenApplusIDE.exe",
+    "update": "https://github.com/linwaiwai/openapplus-ied/releases/download/win32-x64-prod-v0.0.2",
+    "install": "https://github.com/linwaiwai/openapplus-ied/releases/download/win32-x64-prod-v0.0.2/OpenApplusIDE.exe",
     "version": "0.0.2"
   },
   "darwin-x64-prod": {
     "readme": "init",
-    "update": "https://github.com/linwaiwai/openapplus-ide/releases/download/darwin-x64-prod-v0.0.1/release.json",
-    "install": "https://github.com/linwaiwai/openapplus-ide/releases/download/darwin-x64-prod-v0.0.1/OpenApplusIDE.dmg",
+    "update": "https://github.com/linwaiwai/openapplus-ide/releases/download/darwin-x64-prod-v0.0.2/release.json",
+    "install": "https://github.com/linwaiwai/openapplus-ide/releases/download/darwin-x64-prod-v0.0.2/OpenApplusIDE.dmg",
     "version": "0.0.2"
   },
   "linux-x64-prod": {
-    "update": "https://github.com/linwaiwai/openapplus-ide/releases/download/linux-x64-prod-v0.0.1/OpenApplus.AppImage",
-    "install": "https://github.com/linwaiwai/openapplus-ide/releases/download/linux-x64-prod-v0.0.1/OpenApplus.AppImage",
+    "update": "https://github.com/linwaiwai/openapplus-ide/releases/download/linux-x64-prod-v0.0.2/OpenApplus.AppImage",
+    "install": "https://github.com/linwaiwai/openapplus-ide/releases/download/linux-x64-prod-v0.0.2/OpenApplus.AppImage",
     "version": "0.0.2"
   }
 }
