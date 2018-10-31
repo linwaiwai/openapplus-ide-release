@@ -9,5 +9,10 @@
     "update": "https://github.com/linwaiwai/openapplus-ide/releases/download/linux-x64-prod-v0.0.2/OpenApplus.AppImage",
     "install": "https://github.com/linwaiwai/openapplus-ide/releases/download/linux-x64-prod-v0.0.2/OpenApplus.AppImage",
     "version": "0.0.1"
+  },
+  "darwin-x64-prod": {
+    "update": "https://github.com/linwaiwai/openapplus-ide/releases/download/darwin-x64-prod-v0.0.3/release.json",
+    "install": "https://github.com/linwaiwai/openapplus-ide/releases/download/darwin-x64-prod-v0.0.3/OpenApp%2BIDE-0.0.3.dmg",
+    "version": "0.0.3"
   }
 }
