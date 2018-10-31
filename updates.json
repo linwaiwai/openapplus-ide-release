@@ -6,9 +6,8 @@
     "version": "0.0.1"
   },
   "darwin-x64-prod": {
-    "readme": "init",
     "update": "https://github.com/linwaiwai/openapplus-ide/releases/download/darwin-x64-prod-v0.0.1/release.json",
-    "install": "https://github.com/linwaiwai/openapplus-ide/releases/download/darwin-x64-prod-v0.0.1/OpenApplusIDE.dmg",
+    "install": "https://github.com/linwaiwai/openapplus-ide/releases/download/darwin-x64-prod-v0.0.1/OpenApp%2BIDE-0.0.1.dmg",
     "version": "0.0.1"
   },
   "linux-x64-prod": {
