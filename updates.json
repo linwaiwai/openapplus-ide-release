@@ -14,5 +14,10 @@
     "update": "https://github.com/linwaiwai/openapplus-ide/releases/download/darwin-x64-prod-v0.0.3/release.json",
     "install": "https://github.com/linwaiwai/openapplus-ide/releases/download/darwin-x64-prod-v0.0.3/OpenApp%2BIDE-0.0.3.dmg",
     "version": "0.0.3"
+  },
+  "nsis-x64-prod": {
+    "update": "https://github.com/linwaiwai/openapplus-ide/releases/download/nsis-x64-prod-v0.0.3/OpenApp%2BIDE.Setup.0.0.3.exe",
+    "install": "https://github.com/linwaiwai/openapplus-ide/releases/download/nsis-x64-prod-v0.0.3/OpenApp%2BIDE.Setup.0.0.3.exe",
+    "version": "0.0.3"
   }
 }
