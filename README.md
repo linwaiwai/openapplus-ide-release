@@ -1,5 +1,5 @@
 # OpenApplus-IDE
-Please goto the link https://github.com/linwaiwai/openapplus-ide/releases for the lastest release
+Please goto the link https://github.com/linwaiwai/openapplus-ide-release/releases for the lastest release
 
 # WebSite
 
@@ -9,8 +9,8 @@ http://www.openapplus.com
 
 | 平台 | 版本 |软件|
 | :------| ------: | :------:  |
-| MacOS | 适用于 10.9 或更高版本  |[OpenApplus-for-mac.dmg](https://github.com/linwaiwai/openapplus-ide/releases/download/darwin-x64-prod-v0.0.3/OpenApp+IDE-0.0.3.dmg)
-| Windows | 适用于 Windows 64 位  |[OpenApplus-for-window.exe](https://github.com/linwaiwai/openapplus-ide/releases/download/win32-x64-prod-v0.0.3/OpenApp+IDE.Setup.0.0.3.exe)|
+| MacOS | 适用于 10.9 或更高版本  |[OpenApplus-for-mac.dmg](https://github.com/linwaiwai/openapplus-ide-release/releases/download/darwin-x64-prod-v0.0.3/OpenApp+IDE-0.0.3.dmg)
+| Windows | 适用于 Windows 64 位  |[OpenApplus-for-window.exe](https://github.com/linwaiwai/openapplus-ide-release/releases/download/win32-x64-prod-v0.0.3/OpenApp+IDE.Setup.0.0.3.exe)|
 
 # 概览
 
