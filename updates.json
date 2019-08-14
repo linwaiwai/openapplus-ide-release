@@ -4,5 +4,10 @@
     "update": "https://github.com/linwaiwai/openapplus-ied/releases/download/win32-x64-prod-v0.0.1",
     "install": "https://github.com/linwaiwai/openapplus-ied/releases/download/win32-x64-prod-v0.0.1/OpenApplusIDE.exe",
     "version": "0.0.1"
+  },
+  "darwin-x64-prod": {
+    "update": "https://github.com/linwaiwai/openapplus-ide-release/releases/download/darwin-x64-prod-v0.0.4/release.json",
+    "install": "https://github.com/linwaiwai/openapplus-ide-release/releases/download/darwin-x64-prod-v0.0.4/OpenApp%2BIDE-0.0.4.dmg",
+    "version": "0.0.4"
   }
 }
